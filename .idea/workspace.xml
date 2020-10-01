@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Restaurant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/MenuItem.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,6 +53,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/GitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge1/PrimitiveVariablesChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -142,12 +140,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Dog/Pug.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/BodyType.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Moon.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/DwarfPlanet.java" />
@@ -198,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/PersonalStuff/SandBox.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/GitTest.java" />
       </list>
     </option>
   </component>
@@ -207,7 +205,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1250" />
     <option name="height" value="672" />
@@ -236,131 +234,7 @@
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson36" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson39" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
-              <item name="Addition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
-              <item name="BrycesPizza" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -412,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BackwardsString">
+  <component name="RunManager" selected="Application.GitTest">
     <configuration name="BackwardsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonalStuff.BackwardsString" />
       <module name="Udemy 2" />
@@ -439,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonalStuff.BrycesPizza.Main" />
+    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.GitTest" />
       <module name="Udemy 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PersonalStuff.BrycesPizza.*" />
+          <option name="PATTERN" value="PersonalStuff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -519,18 +393,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BiggerNumber" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ProductionCalculator" />
       <item itemvalue="Application.SandBox" />
       <item itemvalue="Application.BackwardsString" />
+      <item itemvalue="Application.GitTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GitTest" />
         <item itemvalue="Application.BackwardsString" />
         <item itemvalue="Application.ProductionCalculator" />
         <item itemvalue="Application.SandBox" />
         <item itemvalue="Application.BiggerNumber" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -754,7 +628,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1250" height="672" extended-state="1" />
+    <frame x="0" y="23" width="1250" height="672" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24865831" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37251654" />
@@ -863,13 +738,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/MainChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/StockItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
@@ -1145,13 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/SandBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1186,6 +1047,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/SandBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/GitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>

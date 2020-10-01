@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="" />
+    <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/MenuItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Addition/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -77,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="100">
               <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="48" />
             </state>
           </provider>
@@ -145,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/BodyType.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Moon.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/DwarfPlanet.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Main.java" />
@@ -196,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/GitTest.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" />
       </list>
     </option>
   </component>
@@ -235,6 +237,13 @@
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="Payroll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -641,13 +650,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291592" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5556595" weight="0.47942755" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55463576" visible="true" weight="0.47942755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931036" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4443405" side_tool="true" visible="true" weight="0.44007155" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.44536424" side_tool="true" visible="true" weight="0.47942755" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49953228" weight="0.3291592" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49017775" weight="0.3237925" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.19550982" />
@@ -738,13 +747,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/StockItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Movies/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -1036,13 +1038,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge1/PrimitiveVariablesChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1057,10 +1052,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PersonalStuff/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>

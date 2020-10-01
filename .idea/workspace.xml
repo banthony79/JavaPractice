@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Restaurant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/MenuItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Addition/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/SandBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge1/PrimitiveVariablesChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;</find>
+      <find>SecondNumber</find>
+      <find>int</find>
+      <find>zone</find>
+      <find>has</find>
+      <find>is rese</find>
+      <find>listProd</find>
+      <find>locations.get\(\d\).addExit</find>
+      <find>sales</find>
+      <find>values</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;=</replace>
+      <replace>secondNumber</replace>
+      <replace>tempExit.put</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Dog/Pug.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/BodyType.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Moon.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/DwarfPlanet.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Main.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/HeavenlyBody.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Menu/foodItem.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Menu/Main.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Planet.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson43/BrycesOffice/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson46/SetMain.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/StringIntro.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson28/LInkedList.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson44/HashExample/HashExample.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/SetMain.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/StockItems.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/StockList.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/Basket.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/RandonNumber.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/StockItem.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/Main.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge33/StockItem.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/BrycesStore/Stock.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/TimStore/StockItem.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson47/BrycesStore/StockItem.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge33/StockList.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge33/Basket.java" />
+        <option value="$PROJECT_DIR$/src/Challenges/Challenge33/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson43/Movies/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Student/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Student/Course.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Student/School.java" />
+        <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Student/Student.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/PizzA.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Hamburger.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Wings.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Wing.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Order.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Main.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Menu.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/Mooc/Circumference/Circumference.java" />
+        <option value="$PROJECT_DIR$/src/Mooc/Circumference/Circumference/Circumference.java" />
+        <option value="$PROJECT_DIR$/src/Mooc/Circumference.java" />
+        <option value="$PROJECT_DIR$/src/Mooc/Exercise1.java" />
+        <option value="$PROJECT_DIR$/src/Mooc/BiggerNumber.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/SandBox.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1250" />
+    <option name="height" value="672" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson36" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson39" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="Addition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="BrycesPizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Challenges/Challenge33" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Challenges/Challenge33" />
+      <recent name="$PROJECT_DIR$/src/Challenges/Challenge32" />
+      <recent name="$PROJECT_DIR$/src/Lessons/Lesson44" />
+      <recent name="$PROJECT_DIR$/src/Lessons/Lesson43" />
+      <recent name="$PROJECT_DIR$/src/Challenges/Challenge28" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Challenges.Challenge30.TimsSolution" />
+      <recent name="Challenges.Challenge25.BrycesSolution" />
+      <recent name="Challenges.Challenge28" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Challenges/Challenge33" />
+      <recent name="$PROJECT_DIR$/src/Lessons/Lesson47" />
+      <recent name="$PROJECT_DIR$/src/Challenges/Challenge29" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BackwardsString">
+    <configuration name="BackwardsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.BackwardsString" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonalStuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiggerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mooc.BiggerNumber" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.BrycesPizza.Main" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonalStuff.BrycesPizza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson45.HeavenlyBody.Main" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.Lesson45.HeavenlyBody.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.LinkedList.ArrayListPractice.Main" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonalStuff.LinkedList.ArrayListPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenges.Challenge24.Challenge24b.Main" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.Challenge24.Challenge24b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.ProductionCalculator" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonalStuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SandBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.SandBox" />
+      <module name="Udemy 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonalStuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BiggerNumber" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ProductionCalculator" />
+      <item itemvalue="Application.SandBox" />
+      <item itemvalue="Application.BackwardsString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BackwardsString" />
+        <item itemvalue="Application.ProductionCalculator" />
+        <item itemvalue="Application.SandBox" />
+        <item itemvalue="Application.BiggerNumber" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="" />
+      <created>1569373012559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569373012559</updated>
+    </task>
+    <task id="LOCAL-00001" summary="course commit">
+      <created>1570240363451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570240363451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="course commit">
+      <created>1570240461467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570240461467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="course commit">
+      <created>1570240696644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570240696644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="course commit">
+      <created>1570240725908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570240725908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="course commit">
+      <created>1570457261495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570457261496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="course commit">
+      <created>1570498334145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570498334145</updated>
+    </task>
+    <task id="LOCAL-00007" summary="course commit">
+      <created>1570498358992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570498358992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="course commit">
+      <created>1570995706040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570995706040</updated>
+    </task>
+    <task id="LOCAL-00009" summary="course commit">
+      <created>1571190066990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571190066990</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Challenges Completed">
+      <created>1571363158518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571363158518</updated>
+    </task>
+    <task id="LOCAL-00011" summary="October 21st Update">
+      <created>1571795259777</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571795259777</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Challenges Completed">
+      <created>1571966003276</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571966003276</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Challenges Completed">
+      <created>1572568617023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572568617025</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Challenges Completed">
+      <created>1572568731475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1572568731475</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Halloween update">
+      <created>1572568898242</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572568898242</updated>
+    </task>
+    <task id="LOCAL-00016" summary="November Update">
+      <created>1573694599849</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1573694599849</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Halloween update">
+      <created>1574297763923</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574297763923</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Classes Challenges Completed">
+      <created>1575147878493</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575147878494</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Start of February Update">
+      <created>1581041142891</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581041142891</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Start of February Update">
+      <created>1581041212576</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581041212577</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Start of February Update">
+      <created>1583002524484</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1583002524485</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Start of February Update">
+      <created>1588178841165</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588178841166</updated>
+    </task>
+    <task id="LOCAL-00023" summary="April Update">
+      <created>1588178922468</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1588178922468</updated>
+    </task>
+    <task id="LOCAL-00024" summary="April Update">
+      <created>1596484896361</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596484896362</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added Menu to Pizza Program">
+      <created>1596484943990</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596484943990</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Finalized menu for pizza program">
+      <created>1596500025890</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596500025890</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Finalized menu for pizza program">
+      <created>1601435994317</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601435994317</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Finalized menu for pizza program">
+      <created>1601438153963</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601438153963</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1250" height="672" extended-state="1" />
+    <layout>
+      <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24865831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37251654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291592" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5556595" weight="0.47942755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931036" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4443405" side_tool="true" visible="true" weight="0.44007155" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49953228" weight="0.3291592" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49017775" weight="0.3237925" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.19550982" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.2946679" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24865831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33278146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291592" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5556595" visible="true" weight="0.29338104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931036" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931036" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4443405" side_tool="true" weight="0.4413793" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49953228" weight="0.32931036" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49017775" weight="0.3237925" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.19550982" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.2946679" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/helloworld" />
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="course commit" />
+    <MESSAGE value="October 21st Update" />
+    <MESSAGE value="Challenges Completed" />
+    <MESSAGE value="November Update" />
+    <MESSAGE value="Halloween update" />
+    <MESSAGE value="Classes Challenges Completed" />
+    <MESSAGE value="Start of February Update" />
+    <MESSAGE value="April Update" />
+    <MESSAGE value="Added Menu to Pizza Program" />
+    <MESSAGE value="Finalized menu for pizza program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized menu for pizza program" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodingExercises/CodingExercise1/SpeedConverter.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lessons/Lesson24/ArraysLesson.java</url>
+          <line>4</line>
+          <properties class="Lessons.Lesson24.ArraysLesson" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Udemy_2$Main.ic" NAME="Main Coverage Results" MODIFIED="1572205744728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodingExercise15.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/MainChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/StockItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Movies/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Adventure/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/Student/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Adventure/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson47/TimStore/StockItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/BrycesOffice/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/BrycesOffice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/Student/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/Student/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/Student/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Hamburger.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollections/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCollections/FoodIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge32/SetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge32/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge32/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/HeavenlyBody/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson40/Stadium/Stadium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-865">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson40/Theatre/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson40/Theatre/Theatre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson41/Theatre/Theatre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/BrycesOffice/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/BrycesOffice/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Wings.java" />
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge24/TimsSolution/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Wing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mooc/BiggerNumber/Exercise.java" />
+    <entry file="file://$PROJECT_DIR$/src/Mooc/Circumference/Circumference/Circumference.java" />
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Exercise1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Mooc/Exercise.java" />
+    <entry file="file://$PROJECT_DIR$/src/Mooc.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson47/BrycesStore/StockItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/Mooc/Exercise1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Mooc/BiggerNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3285">
+          <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27165">
+          <caret line="1846" column="5" selection-start-line="1846" selection-start-column="5" selection-end-line="1846" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Addition/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/SandBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge1/PrimitiveVariablesChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

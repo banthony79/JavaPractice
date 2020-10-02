@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401ea1bc-3671-4d31-8f55-60bb42e80136" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,27 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Addition/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/SandBox.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -65,10 +44,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/ProductionCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Count.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Coin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Pizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2738">
+              <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,18 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -147,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Moon.java" />
-        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/DwarfPlanet.java" />
-        <option value="$PROJECT_DIR$/src/Challenges/Challenge32/Main.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Challenge32/HeavenlyBody.java" />
         <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Menu/foodItem.java" />
         <option value="$PROJECT_DIR$/src/Lessons/Lesson45/Menu/Main.java" />
@@ -198,6 +195,9 @@
         <option value="$PROJECT_DIR$/src/PersonalStuff/BackwardsString.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/GitTest.java" />
         <option value="$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/Count.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Coin.java" />
+        <option value="$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Main.java" />
       </list>
     </option>
   </component>
@@ -237,6 +237,20 @@
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="BrycesPizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="CoinFlip" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GitTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BackwardsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonalStuff.BackwardsString" />
       <module name="Udemy 2" />
@@ -309,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mooc.BiggerNumber" />
+    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.GitTest" />
       <module name="Udemy 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mooc.*" />
+          <option name="PATTERN" value="PersonalStuff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonalStuff.GitTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalStuff.CoinFlip.Main" />
       <module name="Udemy 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PersonalStuff.*" />
+          <option name="PATTERN" value="PersonalStuff.CoinFlip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,19 +415,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiggerNumber" />
       <item itemvalue="Application.ProductionCalculator" />
       <item itemvalue="Application.SandBox" />
       <item itemvalue="Application.BackwardsString" />
       <item itemvalue="Application.GitTest" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.GitTest" />
         <item itemvalue="Application.BackwardsString" />
         <item itemvalue="Application.ProductionCalculator" />
         <item itemvalue="Application.SandBox" />
-        <item itemvalue="Application.BiggerNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +655,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24865831" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37251654" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37251654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -650,7 +664,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291592" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55463576" visible="true" weight="0.47942755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.55463576" visible="true" weight="0.47942755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -747,47 +761,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Movies/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Adventure/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson45/Student/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenges/Challenge33/Basket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson43/Adventure/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson47/TimStore/StockItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -967,16 +940,6 @@
     <entry file="file://$PROJECT_DIR$/src/Lessons/Lesson47/BrycesStore/StockItem.java" />
     <entry file="file://$PROJECT_DIR$/src/Mooc/Exercise1.java" />
     <entry file="file://$PROJECT_DIR$/src/Mooc/BiggerNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3285">
-          <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27165">
@@ -1066,10 +1029,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/NetBeansProjects/mooc-java-programming-i/part06-Part06_08.CargoHold/src/test/java/A_ItemTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Counting.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Payroll/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/BrycesPizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2738">
+          <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalStuff/CoinFlip/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

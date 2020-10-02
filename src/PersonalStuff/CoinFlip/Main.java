@@ -15,13 +15,12 @@ public class Main {
 
             System.out.println("Pick a side");
 
-            String choice = scanner.nextLine();
+            String choice = scanner.nextLine().toUpperCase();
 
             if(choice.isEmpty()) {
                 break;
             }
 
-            choice = choice.toUpperCase();
             String flipResult = coin.flip().toUpperCase();
 
 

@@ -48,7 +48,7 @@ public class Survey {
 
         results();
     }
-    
+
 
     private int getSalary(int salary) {
         if (salary < 0 ) {

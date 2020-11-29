@@ -1,7 +1,7 @@
 package Edabit;
 
 public class TimePassed {
-    
+
     public static String hoursPassed(String t1, String t2) {
 
 
